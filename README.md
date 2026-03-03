@@ -19,13 +19,18 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/Zap-000000?style=for-the-badge&logo=go&logoColor=white" alt="Zap">
 </p>
 
+> 💡 如果图片无法加载，请检查网络连接或尝试使用代理访问 GitHub 相关服务。
+
 ---
 
 ## 📊 Profile Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mife-user&style=for-the-badge&color=0066CC)
+[![Profile Views](https://komarev.com/ghpvc/?username=mife-user&style=for-the-badge&color=0066CC)](https://komarev.com/ghpvc/?username=mife-user)
+
+<!-- 备用统计服务 - 如果上方图片不显示，可访问以下链接查看数据 -->
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mife-user&show_icons=true&theme=github-dark&hide_border=true)](https://github.com/mife-user) -->
 
 </div>
 
@@ -37,11 +42,18 @@ Welcome to my GitHub profile!
 <!-- This section will be auto-updated by GitHub API -->
 <!-- REPO_LIST_END -->
 
+> 📭 暂无公开仓库，敬请期待！
+
+---
+
 <div align="center">
 
 ### ⭐ Starred Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mife-user&layout=compact&theme=github-dark&hide_border=true)](https://github.com/mife-user)
+<!-- 使用文本替代图片，避免加载失败 -->
+**Go** · **Gin** · **GORM** · **Redis** · **MySQL** · **Docker**
+
+[查看完整统计 →](https://github.com/mife-user?tab=stars)
 
 </div>
 
@@ -50,5 +62,9 @@ Welcome to my GitHub profile!
 <div align="center">
 
 **Thanks for visiting!** 🎉
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="wave">
+</p>
 
 </div>
