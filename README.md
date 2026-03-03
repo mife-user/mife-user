@@ -38,11 +38,14 @@ Welcome to my GitHub profile!
 
 ## 📦 My Repositories
 
-<!-- REPO_LIST_START -->
-<!-- This section will be auto-updated by GitHub API -->
-<!-- REPO_LIST_END -->
+<!-- 使用 github-readme-stats 自动显示仓库列表 -->
+<p align="center">
+  <a href="https://github.com/mife-user?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mife-user&repo=template&theme=github-dark&hide_border=true" alt="Pinned Repo" onerror="this.style.display='none'">
+  </a>
+</p>
 
-> 📭 暂无公开仓库，敬请期待！
+> 📭 暂无公开仓库，[创建第一个仓库 →](https://github.com/new)
 
 ---
 
@@ -50,10 +53,9 @@ Welcome to my GitHub profile!
 
 ### ⭐ Starred Repositories
 
-<!-- 使用文本替代图片，避免加载失败 -->
-**Go** · **Gin** · **GORM** · **Redis** · **MySQL** · **Docker**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mife-user&layout=compact&theme=github-dark&hide_border=true)](https://github.com/mife-user?tab=stars)
 
-[查看完整统计 →](https://github.com/mife-user?tab=stars)
+[查看我收藏的仓库 →](https://github.com/mife-user?tab=stars)
 
 </div>
 
