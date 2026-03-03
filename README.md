@@ -34,39 +34,3 @@ Welcome to my GitHub profile!
 
 </div>
 
----
-
-## 📦 My Repositories
-
-<!-- 使用 github-readme-stats 自动显示仓库列表 -->
-<p align="center">
-  <a href="https://github.com/mife-user?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mife-user&repo=template&theme=github-dark&hide_border=true" alt="Pinned Repo" onerror="this.style.display='none'">
-  </a>
-</p>
-
-> 📭 暂无公开仓库，[创建第一个仓库 →](https://github.com/new)
-
----
-
-<div align="center">
-
-### ⭐ Starred Repositories
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mife-user&layout=compact&theme=github-dark&hide_border=true)](https://github.com/mife-user?tab=stars)
-
-[查看我收藏的仓库 →](https://github.com/mife-user?tab=stars)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting!** 🎉
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="wave">
-</p>
-
-</div>
