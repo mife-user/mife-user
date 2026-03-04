@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm mife-user
+# 👋 Hi, I'm mife
 
 Welcome to my GitHub profile!
 
@@ -19,7 +19,6 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/Zap-000000?style=for-the-badge&logo=go&logoColor=white" alt="Zap">
 </p>
 
-> 💡 如果图片无法加载，请检查网络连接或尝试使用代理访问 GitHub 相关服务。
 
 ---
 
