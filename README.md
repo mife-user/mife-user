@@ -33,3 +33,7 @@
     <img src="https://github-stats-extended.vercel.app/api?username=mife-user&show_icons=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats">
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mife-user&style=flat" alt="Profile views">
+</p>
