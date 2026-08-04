@@ -1,4 +1,9 @@
-# Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+MIFE+%F0%9F%91%8B&font=Fira+Code&size=28&color=58a6ff&center=true&vCenter=true&width=500&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+MIFE+%F0%9F%91%8B&font=Fira+Code&size=28&color=0969da&center=true&vCenter=true&width=500&height=50" alt="Hi I am MIFE">
+  </picture>
+</p>
 
 **mife** · Go Backend Engineer · Microservices · Observability · AI/LLM
 
